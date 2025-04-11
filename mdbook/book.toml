@@ -4,7 +4,6 @@ authors = ["THU iOS Club"]
 description = "Tutorials for THU iOS Club"
 src = "src"
 language = "zh-cn"
-multilingual = false
 
 [output.html]
 default-theme = "Light"
